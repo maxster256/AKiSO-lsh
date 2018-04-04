@@ -1,0 +1,14 @@
+total 176
+-rw-r--r--@ 1 pawelnarolski  staff    154 26 lis 21:49 Makefile
+-rw-r--r--@ 1 pawelnarolski  staff   1626 26 lis 21:40 default_functions.c
+-rw-r--r--@ 1 pawelnarolski  staff    283 26 lis 21:45 default_functions.h
+-rw-r--r--  1 pawelnarolski  staff      0  8 gru 09:30 lista.txt
+-rw-r--r--  1 pawelnarolski  staff      0  8 gru 08:10 listaerr.txt
+-rwxr-xr-x  1 pawelnarolski  staff  21124  8 gru 10:34 lsh
+-rw-r--r--@ 1 pawelnarolski  staff  14929  8 gru 10:13 lsh.c
+-rw-r--r--@ 1 pawelnarolski  staff   1254 26 lis 21:48 lsh.h
+-rw-r--r--  1 pawelnarolski  staff  21244  8 gru 10:34 lsh.o
+prw-r--r--  1 pawelnarolski  staff      0  1 gru 08:46 pipe
+-rw-r--r--@ 1 pawelnarolski  staff    814 26 lis 21:44 signal_handlers.c
+-rw-r--r--@ 1 pawelnarolski  staff    272 26 lis 21:40 signal_handlers.h
+-rw-r--r--@ 1 pawelnarolski  staff      0  8 gru 10:37 test.txt
